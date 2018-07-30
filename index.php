@@ -2,18 +2,18 @@
 
   <head>
 
-    <meta charset="utf-8"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1"> <!--Con esto garantizamos que se vea bien en dispositivos móviles--> 
+    
+
     <title>Inicio</title> 
- 
-    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen"> <!--Llamamos al archivo CSS -->
 
   </head>
 
   <body>
 
       <?php
+
       require_once 'footer.php';
+      
       ?>
 
       <div class="input-group mb-3">
