@@ -5,8 +5,9 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen"> <!--Llamamos al archivo CSS -->
 
 
+<div class="container-fluid">
+ <span class="d-block p-2 text-white display-1 text-center" style="background-color: #1600aa;">ACTA DE NOTAS</span>
 
- <span class="d-block p-2 text-white display-1 text-center" style="background-color: #42f4ce;">Gestion de acta de notas</span>
 
       <nav class="navbar navbar-light" style="background-color: #e3f2fd;">
         <ul class="nav justify-content-center">
